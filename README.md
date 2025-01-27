@@ -1,2 +1,2 @@
 # leetCode0
-all leetcode problems
+leetcode python problems
